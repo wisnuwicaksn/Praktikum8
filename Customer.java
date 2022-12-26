@@ -1,5 +1,4 @@
 public class Customer {
-	public static final String description = null;
     String name;
 	String address;
 	public Order order;
